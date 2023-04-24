@@ -1,5 +1,6 @@
 # Combining ripgrep and pandastable in the Windows Context Menu
 
+[![](https://i.ytimg.com/vi/54XZXw1KOvQ/oar2.jpg?sqp=-oaymwEaCJUDENAFSFXyq4qpAwwIARUAAIhCcAHAAQY=&rs=AOn4CLAsTyJc2bHqxjyDSqz29y_VQpVQ2A)](https://www.youtube.com/shorts/54XZXw1KOvQ)
 
 https://github.com/dmnfarrell/pandastable
 
